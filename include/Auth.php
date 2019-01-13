@@ -1,0 +1,1 @@
+<li><a onclick="view('result');loadPage('?do=win&option=profile', 'result', 'Профиль');"><?php print $this->_account->getLogin(); ?></a></li><li><a href="" onclick="goUrl('?do=logout');">Выйти</a></li>

@@ -1,0 +1,1 @@
+<link type='text/css' rel='stylesheet' href='style/<?php print $this->getStyle()."/css/".$css[$i]."?".time(); ?>'>

@@ -1,0 +1,1 @@
+<li><a href="#" onclick="view('pro');loadPage('?do=win&option=1', 'pro', 'Авторизация');">Войти</a></li>

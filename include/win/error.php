@@ -1,0 +1,1 @@
+<div class="error fas fa-exclamation-triangle">Ошибка выполнения операции</div>

@@ -1,0 +1,267 @@
+.main_cont {
+    display: block;
+    margin: 10px;
+    background: #f1f1f1;
+    background: linear-gradient(#f3f3f3, #f1f1f1);
+    background: -o-linear-gradient(#f3f3f3, #f1f1f1);
+    background: -moz-linear-gradient(#f3f3f3, #f1f1f1);
+    background: -webkit-linear-gradient(#f3f3f3, #f1f1f1);
+    background: -ms-linear-gradient(#f3f3f3, #f1f1f1);
+    overflow: hidden;
+}
+
+.bart_body {
+    display: inline-block;
+    overflow: hidden;
+    float: left;
+    margin: 5px;
+    border: 1px solid rgba(0, 0, 0, 0.48);
+    border-radius: 4px;
+    -o-border-radius: 4px;
+    -moz-border-radius: 4px;
+    -webkit-border-radius: 4px;
+    -ms-border-radius: 4px;
+    padding: 10px;
+    box-shadow: 0 0 9px rgba(0, 0, 0, 0.38);
+    -o-box-shadow: 0 0 9px rgba(0, 0, 0, 0.38);
+    -moz-box-shadow: 0 0 9px rgba(0, 0, 0, 0.38);
+    -webkit-box-shadow: 0 0 9px rgba(0, 0, 0, 0.38);
+    -ms-box-shadow: 0 0 9px rgba(0, 0, 0, 0.38);
+}
+
+.bart_img {
+    display: block;
+    overflow: hidden;
+    width: 200px;
+    height: 200px;
+    background-repeat: no-repeat;
+    border-radius: 2px;
+    -o-border-radius: 2px;
+    -moz-border-radius: 2px;
+    -webkit-border-radius: 2px;
+    -ms-border-radius: 2px;
+    background-size: cover;
+    -o-background-size: cover;
+    -moz-background-size: cover;
+    -webkit-background-size: cover;
+    -ms-background-size: cover;
+    cursor: pointer;
+}
+
+.bart_img img {
+    max-width: 200px;
+}
+
+.bart_count {
+    position: absolute;
+    margin: 2px 0 0 0;
+    z-index: 0;
+    box-shadow: 0px 0px 5px #000000;
+    -o-box-shadow: 0px 0px 5px #000000;
+    -moz-box-shadow: 0px 0px 5px #000000;
+    -webkit-box-shadow: 0px 0px 5px #000000;
+    -ms-box-shadow: 0px 0px 5px #000000;
+    max-width: 190px;
+    overflow: hidden;
+    padding: 2px 5px;
+    display: block;
+    background: #2b2c32;
+    border-top: 1px solid #36373c;
+    border-bottom: 1px solid #000;
+    text-align: center;
+    border-radius: 3px;
+    -o-border-radius: 3px;
+    -moz-border-radius: 3px;
+    -webkit-border-radius: 3px;
+    -ms-border-radius: 3px;
+    font-size: 12px;
+    font-weight: normal;
+    color: #ffffff;
+}
+
+.bart_name {
+    max-width: 190px;
+    overflow: hidden;
+    margin: 3px 0 0 0;
+    padding: 5px;
+    height: 14px;
+    display: block;
+    background: #2b2c32;
+    border-top: 1px solid #36373c;
+    border-bottom: 1px solid #000;
+    text-align: center;
+    border-radius: 3px;
+    -o-border-radius: 3px;
+    -moz-border-radius: 3px;
+    -webkit-border-radius: 3px;
+    -ms-border-radius: 3px;
+    font-size: 12px;
+    font-weight: normal;
+    color: #ffffff;
+}
+
+.bart_type {
+    display: block;
+    background: #2b2c32;
+    border-top: 1px solid #36373c;
+    border-bottom: 1px solid #000;
+    text-align: center;
+    border-radius: 3px;
+    -o-border-radius: 3px;
+    -moz-border-radius: 3px;
+    -webkit-border-radius: 3px;
+    -ms-border-radius: 3px;
+    line-height: 17px;
+    font-size: 12px;
+    font-weight: normal;
+    width: 170px;
+    color: #fffda1;
+    padding: 0 15px;
+    margin: 2px 0 0 0;
+}
+
+.bart_date {
+    display: block;
+    background: #2b2c32;
+    border-top: 1px solid #36373c;
+    border-bottom: 1px solid #000;
+    text-align: center;
+    border-radius: 3px;
+    -o-border-radius: 3px;
+    -moz-border-radius: 3px;
+    -webkit-border-radius: 3px;
+    -ms-border-radius: 3px;
+    line-height: 17px;
+    font-size: 12px;
+    font-weight: normal;
+    width: 170px;
+    color: #fffda1;
+    padding: 0 15px;
+    margin: 2px 0 0 0;
+}
+
+.bart_main {
+    padding: 30px;
+    overflow: hidden;
+}
+
+.bart_info {
+    font-size: 12px;
+    float: right;
+    margin: 5px 0 0 0;
+    cursor: pointer;
+}
+
+.profile_cont0O {
+    padding: 5px;
+    overflow: hidden;
+    display: block;
+    margin: 0 auto;
+    width: 150px;
+}
+
+.atl {
+    margin: 0 auto;
+    display: block;
+}
+
+.inv_tradeUser {
+    background: #fff;
+    margin: 5px;
+    padding: 5px 10px;
+    border-radius: 4px;
+    -o-border-radius: 4px;
+    -moz-border-radius: 4px;
+    -webkit-border-radius: 4px;
+    -ms-border-radius: 4px;
+    overflow: hidden;
+    display: block;
+    box-shadow: 0 0 5px #212121;
+    -o-box-shadow: 0 0 5px #212121;
+    -moz-box-shadow: 0 0 5px #212121;
+    -webkit-box-shadow: 0 0 5px #212121;
+    -ms-box-shadow: 0 0 5px #212121;
+}
+
+.inv_type_0 {
+    background: #ffeded;
+}
+
+.inv_type_1 {
+    background: #fff;
+}
+
+.inv_type_2 {
+    background: #ffffe1;
+}
+
+.inv_type_3 {
+    background: #dfffdf;
+}
+
+.int_login {
+    margin: 0 10px;
+    display: inline-block;
+    overflow: hidden;
+    cursor: pointer;
+}
+
+img.int_avatar {
+    width: 40px;
+    float: left;
+    display: inline-block;
+}
+
+.int_mess:before {
+    content: "\f003";
+    font-family: FontAwesome;
+    font-style: normal;
+    font-weight: normal;
+    top: 1px;
+    position: relative;
+    margin: 0 5px 0 0;
+}
+
+.int_mess {
+    display: table-caption;
+    margin: 0 10px;
+    opacity: 0;
+    -o-opacity: 0;
+    -moz-opacity: 0;
+    -webkit-opacity: 0;
+    -ms-opacity: 0;
+    cursor: pointer;
+}
+
+.inv_tradeUser:hover > .int_mess {
+    opacity: 1;
+    -o-opacity: 1;
+    -moz-opacity: 1;
+    -webkit-opacity: 1;
+    -ms-opacity: 1;
+}
+
+.inv_tradeUser:hover {
+    box-shadow: 0 0 5px red;
+    -o-box-shadow: 0 0 5px red;
+    -moz-box-shadow: 0 0 5px red;
+    -webkit-box-shadow: 0 0 5px red;
+    -ms-box-shadow: 0 0 5px red;
+}
+
+.tradeInv {
+    background: #117e96;
+    padding: 10px;
+    border-radius: 4px;
+    -o-border-radius: 4px;
+    -moz-border-radius: 4px;
+    -webkit-border-radius: 4px;
+    -ms-border-radius: 4px;
+    text-align: center;
+    color: #fff;
+    cursor: pointer;
+}
+
+.tradeInv:hover {
+    background: #237d3b;
+}

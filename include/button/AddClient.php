@@ -1,0 +1,1 @@
+<div class="<?php print $class ?>" id="<?php print $id ?>"><?php print $name; ?></div>

@@ -1,0 +1,1 @@
+<li><span class="left"><?php print $this->_accInfo[$i]; ?>:</span><span class="right"><?php print $this->_accInfo[$i+1]; ?></span></li>

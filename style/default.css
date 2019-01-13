@@ -1,0 +1,61 @@
+@font-face {
+    font-family: "PlayRegular";
+    src: url("./font/PlayRegular.eot");
+    src: url("./font/PlayRegular.eot?#iefix")format("embedded-opentype"),
+    url("./font/PlayRegular.woff") format("woff"),
+    url("./font/PlayRegular.ttf") format("truetype");
+    font-style: normal;
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: "PlayBold";
+    src: url("./font/PlayBold.eot");
+    src: url("./font/PlayBold.eot?#iefix")format("embedded-opentype"),
+    url("./font/PlayBold.woff") format("woff"),
+    url("./font/PlayBold.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'PlayRegular';
+    font-style: normal;
+    font-size: 14px;
+    font-weight: 300;
+}
+
+body {
+    color: #000 !important;
+    font-size: 14px;
+    font-weight: 300;
+    background: #f4f8ff;
+    background-position: top center;
+    background-attachment: fixed;
+    padding: 0;
+    margin: 0;
+}
+
+::-webkit-scrollbar              { background: #595b64; width: 6px; }
+::-webkit-scrollbar-track        { background: #282a35; }
+::-webkit-scrollbar-thumb        { background: rgb(250, 169, 169); height: 20px; width: 4px; margin: 10px; padding: 10px; border-radius: 10px; }
+::-webkit-scrollbar-corner       { background: #595b64; }
+
+.error {
+    margin: 100px auto;
+    background: #FF6D6D;
+    text-align: center;
+    padding: 10px;
+    border-radius: 4px;
+    -moz-border-radius: 4px;
+    -webkit-border-radius: 4px;
+    color: #a90000;
+    box-shadow: 0px 1px 2px black;
+    -o-box-shadow: 0px 1px 2px black;
+    -moz-box-shadow: 0px 1px 2px black;
+    -webkit-box-shadow: 0px 1px 2px black;
+    border: 1px dashed #750707;
+    display: table;
+}

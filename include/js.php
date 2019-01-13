@@ -1,0 +1,1 @@
+<script type="text/javascript" src="./js/<?php print $js[$i]; ?>?v1.1" charset="UTF-8"></script>
